@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVB-Jade" tvg-name="TVB 翡翠台" group-title="香港频道",TVB 翡翠台
+http://r.jdshipin.com/TVB-Jade
+#EXTINF:-1 tvg-id="TVB-J2" tvg-name="TVB J2" group-title="香港频道",TVB J2
+http://r.jdshipin.com/TVB-J2
+#EXTINF:-1 tvg-id="TVB-Pearl" tvg-name="TVB 明珠台" group-title="香港频道",TVB 明珠台
+http://r.jdshipin.com/TVB-Pearl
+#EXTINF:-1 tvg-id="TVB-News" tvg-name="TVB 新闻台" group-title="香港频道",TVB 新闻台
+http://r.jdshipin.com/TVB-News
+#EXTINF:-1 tvg-id="TVB-Finance" tvg-name="TVB 财经台" group-title="香港频道",TVB 财经台
+http://r.jdshipin.com/TVB-Finance
